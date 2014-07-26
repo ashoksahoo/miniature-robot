@@ -1,0 +1,16 @@
+{
+  "name": "AngularBlog",
+  "version": "0.0.1",
+  "authors": [
+    "Ashok Sahoo <mail@futikismat.com>"
+  ],
+  "description": "A blog with angular",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

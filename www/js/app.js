@@ -4,7 +4,7 @@
 
 'use strict';
 
-var url = "http://localhost:3000/";
+var url = "/api/";
 
 angular.module('blogApp', [
   'ngRoute',
